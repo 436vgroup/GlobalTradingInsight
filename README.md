@@ -20,10 +20,10 @@ We dedicate this visualization project to explore the global commercial trading 
 * hover over the edge will highlight the two bonding countries, and show a tooltip
 * click on node will highlight its edges.
 
-### Geo Map
+### Geo Map 
 * hover over a countries will show a tooltip
 
-### Tree Map / Tree Map Bar Chart
+### Tree Map / Tree Map Bar Chart 
 * hover over a product category will show a tooltip
 
 ## Widget
