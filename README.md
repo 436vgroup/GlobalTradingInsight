@@ -23,13 +23,13 @@ We dedicate this visualization project to explore the global commercial trading 
 ### Geo Map
 * hover over a countries will show a tooltip
 
-### Tree Map
+### Tree Map / Tree Map Bar Chart
 * hover over a product category will show a tooltip
 
 ## Widget
 * switch the Export/Import toggle will change all the values of three views to the corresponding type.
 * check single country will show the treemap
-* check multiple countries will show the scatter plot
+* check multiple countries will show in treemap bar chart
 
 <img src="image/search.png" width="300">
 
